@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rating-system/static/js/main.caeff79c.js",
+    "index.html": "/rating-system/index.html",
+    "main.caeff79c.js.map": "/rating-system/static/js/main.caeff79c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.caeff79c.js"
+  ]
+}
